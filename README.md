@@ -1,4 +1,4 @@
-# psm-mfrp
+# psm
 Passport Management System
 MVC Pattern 3 Layered Architecture 
 Technology:-
